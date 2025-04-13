@@ -1,0 +1,7 @@
+# Ignore Terraform system files
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.pem
+*.tfvars
+
