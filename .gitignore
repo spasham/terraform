@@ -3,8 +3,6 @@
 terraform.tfstate
 terraform.tfstate.backup
 *.pem
-*.tfvars
-*.tfvars
 *.pem
 *.key
 *.crt
